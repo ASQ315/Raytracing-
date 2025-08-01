@@ -1,6 +1,6 @@
 # 🎨 Ray Tracing Animation in C++
 This project implements a simple ray tracer in C++ that renders a 3D scene with spheres and planes. It produces a sequence of image frames showing animated transformations of spheres, which can be combined to create an animation GIF.
-
+![Ray Tracing Animation](animation.gif)
 ## ⚙️ Features
  - Ray-sphere and ray-plane intersection
  - Lighting model with ambient, point, and directional lights
